@@ -1,0 +1,68 @@
+
+class StringData{
+  static const String register="Enregistrement";
+  static const String update="Upadate";
+  static const String dateFormat='yyyy-MM-dd';
+  static const String dateError="Veuillez choisir une date";
+  static const String nom="Nom";
+    static const String nomExample="SOKE ";
+  static const String prenomExample="Osée Jacques";
+  static const String prenom="Prénoms";
+  static const String dateNaissance="Date de Naissance";
+  static const String profession="Profession";
+  static const String professionExample="Mobile developper";
+  static const String error="Ce champ est obligatoire";
+  static const String mail="Veuillez saisir un mail Valide";
+  static const String userInformation="User Information";
+  static const String nomPrenom="Nom & Prénoms";
+  static const String nomPrenomExample="SOKE Osée Jacques";
+  static const String motDePasse="Mot de Passe";
+  static const String motDePasseExample="aYGUTF6535E";
+  static const String sexe="Sexe";
+  static const String vosPassTemps="Quels sont vos temps ?";
+  static const String football="Football";
+  static const String musique="Musique";
+  static const String manga="Manga";
+  static const String messageSoumettre="Etes-vous sûr de vouloir soumettre le formulaire";
+  static const String mesNotification="Mes notifications";
+  static const String message="Message";
+  static const String appeler="Appeler";
+  static const String profil="Profil";
+  static const String inscription="Inscription";
+  static const String information="Information";
+  static const String parametre="Paramètre";
+  static const String floatingClique="Float action button pressed";
+  static const String informationUtilisateur="Information de l'utilisateur";
+  static const String valider="Valider";
+  static const String votreSexe="Quel est votre sexe";
+  static const String passTemp="Quels sont vos pass temps";
+  static const String alert='Alert Dialogue';
+  static const String mot="Etes vous sur de vouloir soumettre le formulaire";
+  static const String cancel="Cancel";
+  static const String appelle="Valider";
+  static const String passions="Voici mes passions";
+  static const String ajouter="Ajouter";
+  static const String save="Save";
+  static const String delete="Suprimer";
+  static const String eerorMessage="Ce champ est obligatoire";
+  //static const String v="";
+  //static const String v="";
+  //static const String v="";
+   //static const String v="";
+  //static const String v="";
+  //static const String v="";
+  //static const String v="";
+  //static const String v="";
+  //static const String v="";
+  //static const String v="";
+  //static const String v=""; //static const String v="";
+  //static const String v="";
+  //static const String v="";
+  //static const String v="";
+  //static const String v="";
+  //static const String v="";
+  //static const String v="";
+  //static const String v="";
+
+  
+}
